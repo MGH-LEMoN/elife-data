@@ -17,4 +17,4 @@ datalad get .
 ```
 NOTE: This download process can take a while. So, please be patient.
 
-For more information, please open an issue here or send an e-mail to the senior author at [JIGLESIASGONZALEZ@mgh.harvard.edu](mailto:JIGLESIASGONZALEZ@mgh.harvard.edu?subject=Question%20about%20elife-data)
+For more information, please open an issue here or send an e-mail to the authors at [hvgazula@umich.edu](mailto:hvgazula@umich.edu?subject=Question%20about%20elife-data) or [JIGLESIASGONZALEZ@mgh.harvard.edu](mailto:JIGLESIASGONZALEZ@mgh.harvard.edu?subject=Question%20about%20elife-data)
